@@ -1,7 +1,7 @@
  ### OII! Eu sou o João Victor da Silva 
 
 - 🔭 Hoje estudo ciências da computação na Universidade Vila Velha
-- 🌱 Estudando Angular
+
  <br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J0aoCunha&anuraghazra&hide=contribs&theme=dracula">
