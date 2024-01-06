@@ -1,6 +1,7 @@
  ### OII! Eu sou o João Victor da Silva 
 
 - 🔭 Hoje estudo ciências da computação na Universidade Vila Velha
+- 💻 Atualmente estou estudando Node e React 
 
  <br>
 <div>
