@@ -17,10 +17,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   </div>
  <br/>
-  <div>
-   <h2>Frameworks</h2>
-   <img align="center" alt="Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  </div>
+<!--   <div>
+ <h2>Frameworks</h2>
+   <img align="center" alt="Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
+  </div> -->
 </div>
   
   ##
