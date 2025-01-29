@@ -25,7 +25,7 @@
   </div> -->
    <div>
  <h2>Frameworks BackEnd</h2>
-   <img align="center" alt="EXPRESS"   src="https://camo.githubusercontent.com/610eb4c84a6d86e14ad1d42338e72f22f2ccad31bd301b1de08d6e6d4609574a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732d3030354346453f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373" /> 
+   <img align="center" alt="EXPRESS"   src="https://img.shields.io/badge/Express-0000ff.svg?style=for-the-badge&logo=Express&logoColor=white" /> 
    <img align="center" alt="FASTIFY"   src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white" />
    <img align="center" alt="FASTIFY"   src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </div> 
