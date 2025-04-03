@@ -12,6 +12,10 @@
 - **Linguagens de Programação:** Proficiência em JavaScript e TypeScript.
 - **Controle de Versão:** Uso do Git para versionamento de código e colaboração em projetos.
 
+## 📊 Estatísticas de Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoCunha&layout=compact&theme=radical)
+
 ## 🎯 Objetivos
 
 Estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software, com foco em tecnologias modernas e boas práticas de programação. Meu objetivo é contribuir para projetos inovadores e desafiadores, onde possa aplicar minhas competências e aprender continuamente.
