@@ -1,45 +1,26 @@
- ### OII! Eu sou o João Victor da Silva 
+# Olá! Eu sou o João Victor da Silva Cunha 👋
 
-- 🔭 Hoje estudo ciências da computação na Universidade Vila Velha
-- 💻 Atualmente estou estudando Node e React 
+🎓 Estudante de Ciências da Computação na Universidade Vila Velha.
 
- <br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J0aoCunha&anuraghazra&hide=contribs&theme=dracula">
- <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoCunha&anuraghazra&layout=compact&theme=dracula">
-</div>
+💼 Estagiário no Banestes, atuando no desenvolvimento de projetos de sistemas informatizados e contribuindo para a entrega de soluções eficientes.
 
-<div style="display: inline_block"><br>
- <div>
-   <h2>Linguagens de programação</h2> 
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">   
-  <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img align="center" alt="Js"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
-  </div>
- <br/>
- 
-<!--   <div>
- <h2>Frameworks</h2>
-   <img align="center" alt="Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
-  </div> -->
-   <div>
- <h2>Frameworks BackEnd</h2>
-   <img align="center" alt="EXPRESS"   src="https://img.shields.io/badge/Express-0000ff.svg?style=for-the-badge&logo=Express&logoColor=white" /> 
-   <img align="center" alt="FASTIFY"   src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white" />
-   <img align="center" alt="FASTIFY"   src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </div> 
- <br/>
- <h2>ORMs</h2>
-   <img align="center" alt="EXPRESS"  src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" /> 
-  </div> 
-</div>
-  
-  ## Contatos
- 
-  <a href="https://instagram.com/jvjunger1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jvscunha04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-  <a href="https://www.linkedin.com/in/j0aocunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 🛠️ Habilidades
 
+- **Desenvolvimento Back-End:** Experiência com Node.js, utilizando frameworks como Express e Fastify.
+- **Desenvolvimento Front-End:** Conhecimento em React para a criação de interfaces de usuário dinâmicas.
+- **Banco de Dados:** Familiaridade com Prisma como ORM para interagir com bancos de dados.
+- **Linguagens de Programação:** Proficiência em JavaScript e TypeScript.
+- **Controle de Versão:** Uso do Git para versionamento de código e colaboração em projetos.
+
+## 🎯 Objetivos
+
+Estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software, com foco em tecnologias modernas e boas práticas de programação. Meu objetivo é contribuir para projetos inovadores e desafiadores, onde possa aplicar minhas competências e aprender continuamente.
+
+## 📫 Como me Encontrar
+
+- **LinkedIn:** [linkedin.com/in/j0aocunha](https://www.linkedin.com/in/j0aocunha)
+- **Instagram:** [@jvjunger1](https://www.instagram.com/jvjunger1)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0aoCunha&show_icons=true&theme=radical)
